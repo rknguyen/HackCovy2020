@@ -1,0 +1,3 @@
+[submodule "edoctor"]
+	path = edoctor
+	url = https://github.com/rknguyen/edoctor
