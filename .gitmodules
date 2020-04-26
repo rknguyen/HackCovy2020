@@ -1,3 +1,6 @@
 [submodule "edoctor"]
 	path = edoctor
 	url = https://github.com/rknguyen/edoctor
+[submodule "HackCovy2020-frontend"]
+	path = HackCovy2020-frontend
+	url = https://github.com/pythagore1123/HackCovy2020-frontend.git
